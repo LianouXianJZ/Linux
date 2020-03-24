@@ -15,3 +15,8 @@
 重启网络服务
 
     sudo service network-manager restart
+
+查看显卡占用并结束某个进程
+
+    nvidia-smi
+    kill -9 pid_number
