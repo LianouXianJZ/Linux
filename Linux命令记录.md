@@ -20,3 +20,7 @@
 
     nvidia-smi
     kill -9 pid_number
+
+查找某个文件
+
+    find / -name xxx.xx
