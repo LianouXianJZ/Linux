@@ -27,7 +27,7 @@
     
 hosts文件的修改
 
-    sudo vim/etc/hosts
+    sudo vim /etc/hosts
     
     解决某些人尽皆知的原因：https://www.ipaddress.com/
     
@@ -38,4 +38,10 @@ vim 编辑器
     :+wq 保存并退出 vim
     o 光标位置另起一行并插入
 
+ssh命令及问题记录
+      
+    sudo ssh root@1.1.1.1
+    当服务器做了删除重置时 
+
+    ssh-keygen -R 1.1.1.1
          
