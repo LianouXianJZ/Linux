@@ -24,3 +24,18 @@
 查找某个文件
 
     find / -name xxx.xx
+    
+hosts文件的修改
+
+    sudo vim/etc/hosts
+    
+    解决某些人尽皆知的原因：https://www.ipaddress.com/
+    
+    ip+error网址
+    
+vim 编辑器
+    
+    :+wq 保存并退出 vim
+    o 光标位置另起一行并插入
+
+         
