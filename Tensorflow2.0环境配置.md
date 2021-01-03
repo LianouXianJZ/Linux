@@ -49,6 +49,10 @@
 
 
 
+# 其余配置
+- conda install PIL 报错 
+
+      conda install Pillow
 
 
 
